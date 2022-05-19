@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3041f446-5c1c-4689-88bf-fc60563d3fd2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql/schema/schemaTypes/crawlerTypes.js" beforeDir="false" afterPath="$PROJECT_DIR$/graphql/schema/schemaTypes/crawlerTypes.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iEiOM9fU0tpJoN2RSVhSbGHI9l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.shoppingListCrawler.js">
+    <configuration name="shoppingListCrawler.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webscraper/crawlers/shoppingListCrawler.js" working-dir="$PROJECT_DIR$/webscraper/crawlers">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/webscraper/crawlers/test.js" working-dir="$PROJECT_DIR$/webscraper/crawlers">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.shoppingListCrawler.js" />
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3041f446-5c1c-4689-88bf-fc60563d3fd2" name="Default Changelist" comment="" />
+      <created>1601479118452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601479118452</updated>
+      <workItem from="1601479119503" duration="9418000" />
+      <workItem from="1601497019204" duration="3391000" />
+      <workItem from="1601503103433" duration="893000" />
+      <workItem from="1601664035953" duration="77000" />
+      <workItem from="1601727071134" duration="74000" />
+      <workItem from="1602083936828" duration="3555000" />
+      <workItem from="1603041506695" duration="4000" />
+      <workItem from="1606483500039" duration="13000" />
+      <workItem from="1613169372006" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601485188740">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="531" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834/-1920.-451.1536.834/1920.0.1280.689@0.0.1536.834" timestamp="1601485188740" />
+    <state width="1513" height="252" key="GridCell.Tab.0.bottom" timestamp="1602086970120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="252" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.-467.1536.834/1920.496.1536.834@0.0.1536.834" timestamp="1602086970120" />
+    <state width="1513" height="252" key="GridCell.Tab.0.center" timestamp="1602086970120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="252" key="GridCell.Tab.0.center/0.0.1536.834/-1920.-467.1536.834/1920.496.1536.834@0.0.1536.834" timestamp="1602086970120" />
+    <state width="1513" height="252" key="GridCell.Tab.0.left" timestamp="1602086970120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="252" key="GridCell.Tab.0.left/0.0.1536.834/-1920.-467.1536.834/1920.496.1536.834@0.0.1536.834" timestamp="1602086970120" />
+    <state width="1513" height="252" key="GridCell.Tab.0.right" timestamp="1602086970120">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1513" height="252" key="GridCell.Tab.0.right/0.0.1536.834/-1920.-467.1536.834/1920.496.1536.834@0.0.1536.834" timestamp="1602086970120" />
+  </component>
+</project>
